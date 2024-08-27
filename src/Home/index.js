@@ -20,7 +20,7 @@ export default function Home(){
                 
 
                 <div>
-                    <h1> Bem-vindo ao Adote Já!<br/>
+                    <h1> Bem-vindo ao Adote Já!!!<br/>
                     Você está a um passo de transformar vidas e ganhar um novo amigo de quatro patas! No Adote Já!,<br/>
                     cada animalzinho é especial e está ansioso para encontrar um lar cheio de amor. Navegue pelas nossas<br/>
                     adoráveis opções, conheça histórias emocionantes e descubra como você pode fazer a diferença. Juntos,<br/>
